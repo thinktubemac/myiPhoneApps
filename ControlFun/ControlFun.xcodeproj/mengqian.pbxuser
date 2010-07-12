@@ -1,0 +1,153 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ControlFun */ = {
+		activeExec = 0;
+		executables = (
+			C28CB6A511EAA25900165920 /* ControlFun */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ControlFunViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {497, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ControlFunViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 868}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1039}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C28CB6A511EAA25900165920 /* ControlFun */;
+		activeSDKPreference = iphonesimulator3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ControlFun */;
+		codeSenseManager = C28CB6B311EAA26C00165920 /* Code sense */;
+		executables = (
+			C28CB6A511EAA25900165920 /* ControlFun */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					448,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300593771;
+			PBXWorkspaceStateSaveDate = 300593771;
+		};
+		perUserProjectItems = {
+			C28CB6B911EAAC9900165920 /* PBXTextBookmark */ = C28CB6B911EAAC9900165920 /* PBXTextBookmark */;
+			C28CB6BB11EAAC9900165920 /* PBXTextBookmark */ = C28CB6BB11EAAC9900165920 /* PBXTextBookmark */;
+			C28CB6BC11EAAC9900165920 /* PBXTextBookmark */ = C28CB6BC11EAAC9900165920 /* PBXTextBookmark */;
+			C28CB6BE11EAAC9900165920 /* PBXTextBookmark */ = C28CB6BE11EAAC9900165920 /* PBXTextBookmark */;
+			C28CB6E711EAB80300165920 /* PBXTextBookmark */ = C28CB6E711EAB80300165920 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C28CB6B211EAA26C00165920 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C28CB6A511EAA25900165920 /* ControlFun */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ControlFun;
+		sourceDirectories = (
+		);
+	};
+	C28CB6B211EAA26C00165920 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C28CB6B311EAA26C00165920 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C28CB6B911EAAC9900165920 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ControlFunViewController.h */;
+		name = "ControlFunViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	C28CB6BB11EAAC9900165920 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ControlFunViewController.h */;
+		name = "ControlFunViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	C28CB6BC11EAAC9900165920 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ControlFunViewController.m */;
+		name = "ControlFunViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	C28CB6BE11EAAC9900165920 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ControlFunViewController.m */;
+		name = "ControlFunViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	C28CB6E711EAB80300165920 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ControlFunViewController.m */;
+		name = "ControlFunViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1039;
+		vrLoc = 0;
+	};
+}
